@@ -1,0 +1,2429 @@
+
+Meeting created at: 9th Apr, 2026 - 2:01 PM1
+00:00:00,031 --> 00:00:02,811
+Speaker 1: Nee, dat is in grote lijn denk ik wel wat het is hoor, sowieso.
+
+2
+00:00:04,391 --> 00:00:07,771
+Speaker 1: Even kijken, maar dan vanuit mijn perspectief.
+
+3
+00:00:07,911 --> 00:00:16,351
+Speaker 1: Kijk, ik ben eigenaar van een techbureau en wij bouwen van allerlei hele mooie dingen en zo voor klanten, maar dat is vrij technisch.
+
+4
+00:00:16,511 --> 00:00:26,471
+Speaker 1: En ik ben zelf ook iemand die heel veel met AI bezig is en ik zit altijd Eelke een beetje op te jagen, het zeggen dat hij op moet schieten en dat het allemaal te langzaam gaat bij hem.
+
+5
+00:00:27,082 --> 00:00:32,902
+Speaker 1: Omdat ik me niet alleen voor Eelco, ook voor mijn eigen bedrijf, maar ik zie gewoon wat AI doet.
+
+6
+00:00:33,042 --> 00:00:35,722
+Speaker 1: Ik zit er middenin, ik loop best wel voorop.
+
+7
+00:00:35,942 --> 00:00:37,202
+Speaker 1: Het gaat echt derings snel.
+
+8
+00:00:37,342 --> 00:00:38,702
+Speaker 1: Het is echt absurd eigenlijk.
+
+9
+00:00:39,762 --> 00:00:42,462
+Speaker 1: Dus die businessmodellen die worden opgegeten.
+
+10
+00:00:42,542 --> 00:00:44,182
+Speaker 1: Klanten gaan soms ook iets anders verwachten.
+
+11
+00:00:46,673 --> 00:00:51,493
+Speaker 1: Dus op een gegeven moment heb ik gewoon gezegd, ja, laten we er gewoon eens een keer naar kijken.
+
+12
+00:00:51,793 --> 00:00:53,553
+Speaker 1: En toen heb ik met Tom gezeten.
+
+13
+00:00:54,013 --> 00:00:58,613
+Speaker 1: Wat ik eigenlijk dus probeer te doen is, ik probeer jullie proces een beetje beter te begrijpen.
+
+14
+00:00:59,193 --> 00:01:07,793
+Speaker 1: Omdat mijn hypothese is dat er veel meer met AI gedaan kan worden dan nu gebeurt, en dat je dienstverlening naar een hoog niveau kan trekken.
+
+15
+00:01:08,088 --> 00:01:13,288
+Speaker 1: En dat is voor ons natuurlijk heel leuk, want wij kunnen met een heel leuk AI-project weer aan de slag.
+
+16
+00:01:13,748 --> 00:01:19,988
+Speaker 1: En voor jullie is dat leuk, want jullie kunnen ook aan je propositie gaan werken en je gaan positioneren als innovator.
+
+17
+00:01:20,868 --> 00:01:25,088
+Speaker 1: Maar misschien ook nieuwe, ja wat ik zei, nieuwe proposities ontwikkelen en de relatie met de klanten versterken.
+
+18
+00:01:25,968 --> 00:01:29,588
+Speaker 1: Even kijken, dus zo is het eigenlijk een beetje ontstaan.
+
+19
+00:01:29,608 --> 00:01:32,388
+Speaker 1: We hebben met Tom gezeten en heel snel eigenlijk al iets.
+
+20
+00:01:32,945 --> 00:01:36,565
+Speaker 1: Kunnen bouwen wat in de buurt komt wat jullie eigenlijk al hebben.
+
+21
+00:01:37,285 --> 00:01:41,165
+Speaker 1: Heb jij trouwens toegang tot je MacBook of Windows laptop, whatever?
+
+22
+00:01:41,825 --> 00:01:43,485
+Speaker 1: Dat ik iets kan laten zien of is dat lastig?
+
+23
+00:01:44,345 --> 00:01:48,245
+Speaker 1: Hoeft niet per se hoor, maar...
+
+24
+00:01:52,433 --> 00:01:55,433
+Speaker 2: We.
+
+25
+00:01:59,622 --> 00:02:06,322
+Speaker 1: Hadden het idee om iets van een hackathon te doen of iets dergelijks.
+
+26
+00:02:06,762 --> 00:02:08,482
+Speaker 1: Waar het mij dan om gaat...
+
+27
+00:02:08,686 --> 00:02:11,766
+Speaker 1: Maar daarvan heb ik eigenlijk gezegd, ja, we gaan waarschijnlijk toch te snel.
+
+28
+00:02:12,486 --> 00:02:19,586
+Speaker 1: En een hackathon is interessant op het moment dat je iets wilt oplossen, waarvan je niet zeker weet of het opgelost kan worden.
+
+29
+00:02:20,306 --> 00:02:25,406
+Speaker 1: Dus ik heb op een gegeven moment gewoon gezegd, laat mij gewoon zien wat jullie aan het doen zijn.
+
+30
+00:02:26,006 --> 00:02:29,686
+Speaker 1: En op een gegeven moment, een paar uur, dan moet ik even in mijn hok duiken, dan kom ik terug met waarschijnlijk wel iets leuks.
+
+31
+00:02:29,846 --> 00:02:36,346
+Speaker 1: En dan kunnen we vanuit daar wel verder gaan, in plaats van dat we met z'n allen naar een scherm zitten te kijken hoe iemand zit te hacken bij wijze van.
+
+32
+00:02:36,985 --> 00:02:38,345
+Speaker 1: Dus ik wil het eigenlijk omdraaien.
+
+33
+00:02:38,445 --> 00:02:40,025
+Speaker 1: Laat ons eerst gewoon even aan de slag gaan.
+
+34
+00:02:40,605 --> 00:02:44,965
+Speaker 1: Dat we iets moois proberen te bouwen op basis van alles wat we tot nu toe hebben verzameld.
+
+35
+00:02:45,765 --> 00:02:50,685
+Speaker 1: En dan gaan we daarna inderdaad met elkaar zitten om te kijken wat we dan nog meer kunnen doen.
+
+36
+00:02:51,085 --> 00:02:54,765
+Speaker 1: Inmiddels hebben we best wel een aantal sessies gehad en ik heb ook best wel iets gebouwd.
+
+37
+00:02:55,143 --> 00:03:04,863
+Speaker 1: Dus voor jouw beeldvorming, in eerste instantie wat we gedaan is, ik heb van Tom zo'n dashboard gekregen, eigenlijk een screenshot van Power BI.
+
+38
+00:03:05,603 --> 00:03:08,783
+Speaker 1: En dat dashboard waar je eigenlijk mee, denk ik, bijna altijd mee begint.
+
+39
+00:03:09,843 --> 00:03:17,543
+Speaker 2: Ja, want ik had zeg maar inderdaad zo'n basisdashboard met gewoon een biografie van de stand van zaken, of is het prognosemodel?
+
+40
+00:03:17,803 --> 00:03:18,463
+Speaker 1: Zit er ook in.
+
+41
+00:03:18,623 --> 00:03:23,183
+Speaker 1: Dus eigenlijk, ja, dus de actuals en een prognosemodel zit er ook in.
+
+42
+00:03:25,096 --> 00:03:28,916
+Speaker 1: Nou daarvan hebben we eigenlijk al vrij snel kunnen zien dat we die gewoon kunnen namaken.
+
+43
+00:03:29,973 --> 00:03:34,173
+Speaker 1: Ja, dat doe ik wel op alles wat ik al eerder heb gebouwd voor financiële partijen, et cetera.
+
+44
+00:03:34,293 --> 00:03:38,193
+Speaker 1: Maar in principe lukt me dat om dat vrij snel na te maken.
+
+45
+00:03:38,353 --> 00:03:44,153
+Speaker 1: Dan loop je wel tegen allerlei problemen aan dat de data wellicht niet honderd procent klopt, maar dat is wel op te lossen.
+
+46
+00:03:44,893 --> 00:03:47,273
+Speaker 1: En daarna ben ik aan de slag gegaan.
+
+47
+00:03:47,473 --> 00:03:52,773
+Speaker 1: Toen ik die hypothesis heb gevalideerd, van nou, we kunnen zo'n dashboard prima maken, is het natuurlijk interessant.
+
+48
+00:03:52,873 --> 00:03:53,633
+Speaker 1: Wat kun je nog meer?
+
+49
+00:03:53,753 --> 00:03:56,653
+Speaker 1: Want zo'n dashboard, ja, ik ken Power BI een beetje.
+
+50
+00:03:56,793 --> 00:03:59,333
+Speaker 1: Het is nou niet de meest vriendelijke applicatie.
+
+51
+00:03:59,960 --> 00:04:03,420
+Speaker 1: Je moet toch wat kennis...
+
+52
+00:04:03,420 --> 00:04:11,600
+Speaker 1: Je bent naar cijfertjes aan het kijken en een cijfertje op zich zegt niet zo heel veel, behalve als je de context kent.
+
+53
+00:04:12,211 --> 00:04:18,391
+Speaker 1: En zo'n dashboard mist dus eigenlijk ook echt de context vaak.
+
+54
+00:04:19,211 --> 00:04:20,551
+Speaker 1: En ik krijg dat ook wel terug.
+
+55
+00:04:20,750 --> 00:04:31,031
+Speaker 1: Ik heb ook met Harm Nicol gesproken en hij heeft wel echt een visie over hoe je met data moet gaan en wat data je dan kan vertellen en hoe je dat moet interpreteren.
+
+56
+00:04:31,211 --> 00:04:33,171
+Speaker 1: En dat zie ik ook wel, ja, het mist wel een hoop.
+
+57
+00:04:33,311 --> 00:04:35,211
+Speaker 1: Dus vervolgens zijn we aan de slag gegaan met een...
+
+58
+00:04:35,785 --> 00:04:37,565
+Speaker 1: Concept, ja, praten met je data.
+
+59
+00:04:37,765 --> 00:04:38,505
+Speaker 1: Klinkt super suf.
+
+60
+00:04:40,745 --> 00:04:41,905
+Speaker 1: Maar ja, het is...
+
+61
+00:04:41,905 --> 00:04:43,565
+Speaker 2: Ik vind het wel leuk klinken.
+
+62
+00:04:43,865 --> 00:04:43,965
+Speaker 2: Ja?
+
+63
+00:04:44,605 --> 00:04:45,165
+Speaker 1: Oké.
+
+64
+00:04:46,185 --> 00:04:49,105
+Speaker 1: Maar dat is ook gelukt.
+
+65
+00:04:49,225 --> 00:04:52,785
+Speaker 1: Ik weet niet of je dat hebt meegekregen, maar uiteindelijk hebben we gewoon op...
+
+66
+00:04:52,785 --> 00:04:55,465
+Speaker 1: Dus ik heb van Tom een screenshot kregen van dat dashboard.
+
+67
+00:04:55,816 --> 00:05:01,876
+Speaker 1: En de databron, wel geanonymiseerd, waar dat dashboard op is gebaseerd.
+
+68
+00:05:02,296 --> 00:05:04,336
+Speaker 1: Nou ja, dat dashboard heb ik nagemaakt vrij snel.
+
+69
+00:05:05,016 --> 00:05:11,356
+Speaker 1: Daarna heb ik die data gepakt en heb ik gezegd, nou, ik wil er eigenlijk tegenaan kunnen praten alsof ik met een Chachabitie aan het praten ben, bij wijze van.
+
+70
+00:05:11,645 --> 00:05:12,565
+Speaker 2: Ja, precies.
+
+71
+00:05:12,645 --> 00:05:14,325
+Speaker 1: En dat is ook gelukt.
+
+72
+00:05:14,705 --> 00:05:16,385
+Speaker 1: En dat gaat best goed.
+
+73
+00:05:16,605 --> 00:05:19,205
+Speaker 1: Dus we kunnen gewoon vragen stellen, zoals...
+
+74
+00:05:19,205 --> 00:05:20,805
+Speaker 1: Wat waren de actions van 2024?
+
+75
+00:05:21,065 --> 00:05:21,885
+Speaker 1: Wat valt je op?
+
+76
+00:05:22,425 --> 00:05:23,665
+Speaker 1: Waarom zijn deze zo hoog?
+
+77
+00:05:23,745 --> 00:05:24,845
+Speaker 1: Wat betekent dat nou eigenlijk?
+
+78
+00:05:25,005 --> 00:05:26,865
+Speaker 1: Wat als je dat vergelijkt met 2021?
+
+79
+00:05:27,945 --> 00:05:36,105
+Speaker 1: Ik heb een combinatie gemaakt met CBS-data, dus kun je onze gemeente vergelijken met landelijke gemeentes van ongeveer dezelfde grootte?
+
+80
+00:05:36,885 --> 00:05:40,545
+Speaker 1: Weet je wel, dat soort zaken, dat is eigenlijk allemaal wel te doen.
+
+81
+00:05:43,083 --> 00:05:44,123
+Speaker 2: Dat is wel leuk.
+
+82
+00:05:44,303 --> 00:05:46,623
+Speaker 2: Ik moet wel zeggen dat daar natuurlijk ook alweer een addertje onder het gras zit.
+
+83
+00:05:46,983 --> 00:05:49,723
+Speaker 2: Als die CBS-data komen zelden overeen.
+
+84
+00:05:49,923 --> 00:05:51,403
+Speaker 2: Dat wordt wel door gemeenten aangeleverd.
+
+85
+00:05:51,943 --> 00:05:53,483
+Speaker 2: Dan gaat het over zorgen en dergelijke.
+
+86
+00:05:53,623 --> 00:05:58,483
+Speaker 2: Dat wordt wel aangeleverd, maar dat komt zelden overeen met interne data van gemeenten.
+
+87
+00:05:58,603 --> 00:06:00,043
+Speaker 2: Die zouden dan uit zo'n dashboard zouden staan.
+
+88
+00:06:00,683 --> 00:06:03,743
+Speaker 2: Dus maar goed, dat denk ik daar meteen even aan.
+
+89
+00:06:04,723 --> 00:06:06,463
+Speaker 2: Maar toch, ja, wel leuk dat kan.
+
+90
+00:06:06,803 --> 00:06:09,983
+Speaker 2: Gewoon met een vraag, met een prompt.
+
+91
+00:06:10,319 --> 00:06:15,499
+Speaker 1: Ja, kijk, daar heb je dus echt domeinkennis voor nodig.
+
+92
+00:06:16,539 --> 00:06:23,399
+Speaker 1: Ik kan helemaal niet bepalen of CBS-data überhaupt interessant is, of het klopt, of het relevant is.
+
+93
+00:06:23,619 --> 00:06:25,919
+Speaker 1: Dat kan ik helemaal niet, want ik heb die domeinkennis helemaal niet.
+
+94
+00:06:26,479 --> 00:06:33,899
+Speaker 1: Wat ik wel kan doen, is ik kan ongeveer een beetje nadenken, ja volgens mij heeft het een beetje met elkaar te maken, dus laat ik kijken of ik een externe bron kan koppelen.
+
+95
+00:06:34,535 --> 00:06:40,275
+Speaker 1: Om de gebruiksvriendelijkheid van deze applicatie op basis van de data die we überhaupt al hebben wat kan vergroten.
+
+96
+00:06:40,935 --> 00:06:52,835
+Speaker 1: Dus wat ik probeer te doen uiteindelijk is te gaan van een dashboard, wat vrij statisch is eigenlijk, en ook niet zo heel veel zegt, naar een situatie waarin je echt vragen kunt gaan stellen.
+
+97
+00:06:53,350 --> 00:06:55,050
+Speaker 2: Ja, dat is wel echt heel leuk.
+
+98
+00:06:55,490 --> 00:07:01,450
+Speaker 1: En dus views kunt maken van dezelfde data, maar dan vanuit verschillende perspectieven.
+
+99
+00:07:01,890 --> 00:07:03,650
+Speaker 1: Zodat je dat kunt gebruiken.
+
+100
+00:07:03,710 --> 00:07:07,290
+Speaker 1: Want volgens mij, het doel is, op basis van die data, om een beslissing te nemen.
+
+101
+00:07:07,730 --> 00:07:10,790
+Speaker 1: Maar om een beslissing te nemen, moet je weten wat de norm is.
+
+102
+00:07:10,910 --> 00:07:13,110
+Speaker 1: Moet je weten waarom die afwijking er is.
+
+103
+00:07:13,570 --> 00:07:15,570
+Speaker 1: Moet je weten hoe die afwijking is gekomen.
+
+104
+00:07:15,790 --> 00:07:17,990
+Speaker 1: Of die afwijking waarschijnlijk nog gaat gebeuren in de toekomst.
+
+105
+00:07:18,170 --> 00:07:21,210
+Speaker 1: En allerlei andere contexten, wat we nu gewoon heel erg missen.
+
+106
+00:07:21,582 --> 00:07:29,802
+Speaker 1: En ik denk dat vooral de reden is waarom we bij elkaar zouden moeten komen, omdat je dan de verschillende domeinen ook echt bij elkaar krijgt.
+
+107
+00:07:30,042 --> 00:07:39,542
+Speaker 1: En dan heb ik het nu even over de technische domeinen en domeinen van jeugdzorg bijvoorbeeld, maar ook de domeinen van wat wil de klant nou eigenlijk?
+
+108
+00:07:40,145 --> 00:07:58,565
+Speaker 1: En dan denk ik, als je dat bij elkaar brengt, dan kun je misschien wel een hele leuke app gaan maken, die ook echt waarde gaat toevoegen, waarbij praten met je data dan niet een gimmick is of iets dergelijks, of gewoon maar iets leuks om te roepen, maar ook daadwerkelijk waarde toevoegt.
+
+109
+00:08:00,918 --> 00:08:04,558
+Speaker 1: Ja, daar zijn we dus nu mee bezig.
+
+110
+00:08:05,418 --> 00:08:09,358
+Speaker 1: Dus we hebben een chat en eigenlijk al wel bewezen dat we dat vrij snel kunnen doen.
+
+111
+00:08:09,898 --> 00:08:14,438
+Speaker 1: Alleen, ja, precies wat je zegt, wat is de relevantie?
+
+112
+00:08:14,618 --> 00:08:16,618
+Speaker 1: En dat is iets waar we domeinkennis voor nodig hebben.
+
+113
+00:08:16,698 --> 00:08:23,978
+Speaker 1: Want ik weet dat het ons lukt om een CBS database te koppelen en dat we hele mooie dingen kunnen doen.
+
+114
+00:08:24,098 --> 00:08:26,418
+Speaker 1: Ik kan allerlei grafieken toveren.
+
+115
+00:08:26,855 --> 00:08:29,935
+Speaker 1: Ik kan een boel mailen, ik kan dashboarding maken, alles eigenlijk.
+
+116
+00:08:30,175 --> 00:08:34,054
+Speaker 1: Alleen het valt op staat met, is het relevant en wat wil de gebruiker nou echt weten?
+
+117
+00:08:34,875 --> 00:08:50,455
+Speaker 1: En kunnen we even mentaal, soort van die dashboard die we met z'n allen kennen, dat we die even van tafel vegen, schoonschip maken en zeggen, als we nou alles mochten bepalen, als we alles konden kiezen, hoe zou de wereld er dan uitzien qua functionaliteit voor de eindgebruiker?
+
+118
+00:08:50,515 --> 00:08:57,432
+Speaker 1: Wat zou die eindgebruiker nou willen hebben om, weet ik veel, misschien in de raadzaal een sneller en een betere beslissing te kunnen nemen.
+
+119
+00:08:58,752 --> 00:09:05,952
+Speaker 1: En zelfs zou ik zover willen gaan om te kunnen zeggen om het werk dat wij nu doen, wij als een VDD, te kunnen vervangen.
+
+120
+00:09:06,772 --> 00:09:15,272
+Speaker 1: Niet om ook echt te kunnen vervangen, nou ja, eigenlijk wel te vervangen, maar om jullie waarde ook op een andere manier te kunnen neerzetten.
+
+121
+00:09:15,352 --> 00:09:22,951
+Speaker 1: Want ik denk, Ja, ik denk uiteindelijk dat jullie meerwaarde veel meer zou moeten zitten in het adviseren op een hoger niveau.
+
+122
+00:09:23,551 --> 00:09:26,091
+Speaker 1: En daar kan zo'n tools dit bij helpen.
+
+123
+00:09:26,111 --> 00:09:26,311
+Speaker 2: Ja.
+
+124
+00:09:26,751 --> 00:09:27,311
+Speaker 1: Ja?
+
+125
+00:09:27,611 --> 00:09:31,271
+Speaker 1: Ik hoop niet dat ik nu tegenschenes ga schoppen en zo, maar...
+
+126
+00:09:31,271 --> 00:09:32,331
+Speaker 2: Nee, nee, nee.
+
+127
+00:09:32,531 --> 00:09:34,191
+Speaker 2: Ik kan er wel op een nette manier naar kijken.
+
+128
+00:09:34,411 --> 00:09:35,351
+Speaker 2: Nee, dat is...
+
+129
+00:09:35,351 --> 00:09:36,591
+Speaker 2: Nee, helder.
+
+130
+00:09:36,891 --> 00:09:37,571
+Speaker 2: Oké.
+
+131
+00:09:37,791 --> 00:09:38,571
+Speaker 2: En leuk.
+
+132
+00:09:39,231 --> 00:09:41,211
+Speaker 2: Het lijkt mij een hartstikke leuk project ook gewoon.
+
+133
+00:09:42,151 --> 00:09:43,991
+Speaker 2: Wat is de volgende stap?
+
+134
+00:09:44,071 --> 00:09:47,011
+Speaker 2: Want ik denk dat ik inderdaad qua domeinkennis en qua...
+
+135
+00:09:47,669 --> 00:09:49,769
+Speaker 2: Wat wil de opdrachtgever nu echt?
+
+136
+00:09:50,889 --> 00:09:52,109
+Speaker 2: Waar ligt echt die behoefte?
+
+137
+00:09:52,869 --> 00:09:54,849
+Speaker 2: Daar kan ik natuurlijk wel mijn input over leveren.
+
+138
+00:09:55,769 --> 00:09:57,469
+Speaker 2: Hoe is dat handig om te doen?
+
+139
+00:09:58,529 --> 00:10:01,829
+Speaker 1: Ik denk gewoon of dat ik even langskom.
+
+140
+00:10:03,709 --> 00:10:06,129
+Speaker 1: Jullie zitten in Utrecht, toch?
+
+141
+00:10:07,244 --> 00:10:08,724
+Speaker 1: En jij woont ook in Utrecht, niet in Valkenham?
+
+142
+00:10:08,844 --> 00:10:09,344
+Speaker 2: In Nijmegen.
+
+143
+00:10:09,784 --> 00:10:10,344
+Speaker 1: Oh, Nijmegen.
+
+144
+00:10:10,524 --> 00:10:11,664
+Speaker 1: Lekker man, daar kom ik ook vandaan.
+
+145
+00:10:12,504 --> 00:10:12,584
+Speaker 1: Leuk.
+
+146
+00:10:12,604 --> 00:10:14,164
+Speaker 2: Ja, dat is wel de invloed, inderdaad.
+
+147
+00:10:14,844 --> 00:10:16,644
+Speaker 1: Even kijken.
+
+148
+00:10:16,744 --> 00:10:19,324
+Speaker 1: Nee, maar dan kunnen we gewoon een digitale sessie opzetten, denk ik.
+
+149
+00:10:19,364 --> 00:10:24,244
+Speaker 1: Of ik kom even jullie kant op, wat het beste slash snelste werkt.
+
+150
+00:10:24,624 --> 00:10:27,164
+Speaker 1: Het liefste doe ik het even face-to-face, om heel eerlijk te zijn.
+
+151
+00:10:27,264 --> 00:10:30,564
+Speaker 1: Want dit zijn van die sessies dat ik, ja...
+
+152
+00:10:30,700 --> 00:10:37,820
+Speaker 1: Ja, als je echt even de gebruikersinformatie wil ophalen, we samen even naar de applicatie kunnen kijken, dat ik ook zie hoe jij klikt, waar je klikt, etcetera.
+
+153
+00:10:37,920 --> 00:10:38,780
+Speaker 1: Dat helpt heel erg.
+
+154
+00:10:40,720 --> 00:10:43,420
+Speaker 1: Maar als we dat zouden kunnen opzetten, dan heel erg graag.
+
+155
+00:10:44,240 --> 00:10:47,020
+Speaker 1: Ja, laten we dat doen.
+
+156
+00:10:47,120 --> 00:10:53,760
+Speaker 2: Volgens mij wilde Ilke dat ook al wel, maar dan inderdaad niet dat we met z'n allen haar scherp zitten te staren.
+
+157
+00:10:55,405 --> 00:10:57,845
+Speaker 2: Misschien heb ik even tijd voor nodig, maar goed, er staat nu al wel iets.
+
+158
+00:10:57,985 --> 00:11:00,625
+Speaker 2: Misschien kunnen we daar dan een meer inhoudelijke sessie over houden.
+
+159
+00:11:00,945 --> 00:11:02,445
+Speaker 1: Ja, nee, zeker.
+
+160
+00:11:02,605 --> 00:11:04,185
+Speaker 1: Kijk, ik zou...
+
+161
+00:11:04,185 --> 00:11:05,885
+Speaker 1: Ik ben bij iedereen wat informatie aan het ophalen.
+
+162
+00:11:06,005 --> 00:11:09,825
+Speaker 1: Dus bij Tom vanochtend weer gesproken, die spreek ik morgen ook weer.
+
+163
+00:11:09,905 --> 00:11:11,085
+Speaker 1: Nou, Helga ben ik natuurlijk veel aan het spreken.
+
+164
+00:11:11,165 --> 00:11:13,905
+Speaker 1: Harmoniek heb ik nog gesproken, die probeer ik volgende week ook weer even te spreken.
+
+165
+00:11:14,445 --> 00:11:16,585
+Speaker 1: In eerste instantie gewoon even het net ophalen.
+
+166
+00:11:17,345 --> 00:11:23,305
+Speaker 1: Zodat ik één, voor mezelf de mijnkennis opbouw, maar twee, ook een beetje kan bepalen aan welke kant kunnen we nu opgaan.
+
+167
+00:11:23,502 --> 00:11:34,962
+Speaker 1: En ik wil verder gaan dan, ja ja, we kunnen alles bouwen, want ja, dat snappen we, maar wat kunnen we bouwen wat relevant is voor die vier, voor de verschillende doelgroepen.
+
+168
+00:11:35,362 --> 00:11:38,322
+Speaker 1: En ik noem de vier, die heb ik ooit een keer voorbij horen komen.
+
+169
+00:11:40,040 --> 00:11:42,780
+Speaker 1: Daar zou ik het graag in eerste instantie even met jou over willen hebben.
+
+170
+00:11:42,880 --> 00:11:45,400
+Speaker 1: En dus ook van jou zien, wat leeft er nou bij die klant?
+
+171
+00:11:45,460 --> 00:11:46,460
+Speaker 1: Waar loopt die nou tegenaan?
+
+172
+00:11:47,160 --> 00:11:52,300
+Speaker 1: Zodat ik wellicht ook dat kan omzetten naar functionaliteit of iets anders.
+
+173
+00:11:53,540 --> 00:11:55,760
+Speaker 1: En dat ik dat dan nog een keer verzamel.
+
+174
+00:11:56,480 --> 00:12:01,620
+Speaker 1: En dan dat we een keer met elkaar gaan zitten.
+
+175
+00:12:02,240 --> 00:12:04,420
+Speaker 1: Maar dan moet die applicatie wel even een stapje verder zijn.
+
+176
+00:12:05,167 --> 00:12:13,447
+Speaker 2: Ja, graag.
+
+177
+00:12:17,890 --> 00:12:21,390
+Speaker 1: Nou, even kijken, die kan ik wel ophalen, denk ik.
+
+178
+00:12:21,550 --> 00:12:22,350
+Speaker 1: Ik had...
+
+179
+00:12:22,350 --> 00:12:25,030
+Speaker 1: Met wie was dat?
+
+180
+00:12:25,070 --> 00:12:25,810
+Speaker 1: Die ding met Eelke.
+
+181
+00:12:26,510 --> 00:12:28,970
+Speaker 1: Gewoon besloten van...
+
+182
+00:12:28,970 --> 00:12:33,450
+Speaker 1: Mijn vraag is, wie zijn nou eigenlijk de gebruikers?
+
+183
+00:12:33,570 --> 00:12:34,850
+Speaker 1: Wie zouden hier nu mee naar slag kunnen gaan?
+
+184
+00:12:34,930 --> 00:12:43,230
+Speaker 1: En dat zijn de wethouders, de controllers, volgens mij de beleidsmedewerkers en de data-analisten.
+
+185
+00:12:44,030 --> 00:12:45,610
+Speaker 1: Ergens een beetje in die hoek.
+
+186
+00:12:46,477 --> 00:12:47,977
+Speaker 2: Ja, klinkt logisch.
+
+187
+00:12:48,657 --> 00:12:49,257
+Speaker 2: Even kijken, kom maar.
+
+188
+00:12:55,758 --> 00:13:01,518
+Speaker 1: En ze hebben natuurlijk allemaal hun eigen, een controller zit veel meer op de finances, die wil cijfertjes zien.
+
+189
+00:13:02,078 --> 00:13:09,138
+Speaker 1: En een blijfsmedewerker, een wethouder, die wil denk ik gewoon wat meer uitleg krijgen van waarom is dit nu zo?
+
+190
+00:13:09,218 --> 00:13:12,158
+Speaker 1: Zodat hij met stokken kan slaan of een sterk punt kan maken.
+
+191
+00:13:12,298 --> 00:13:18,298
+Speaker 1: Dat is heel anders, een heel ander perspectief op dezelfde data dan een controller dat wil zien.
+
+192
+00:13:19,889 --> 00:13:29,589
+Speaker 2: Hebben jullie ook nog een specifiek domein in gedachten, als in, is dat het jufsaal domein of het filiep domein?
+
+193
+00:13:29,689 --> 00:13:30,389
+Speaker 1: Ja, het jufsaal domein.
+
+194
+00:13:33,035 --> 00:13:51,895
+Speaker 2: Wat ik daar inderdaad voor zie, en dan zal ik het even proberen te koppelen aan die vier doelgroepen, is men wil inzicht in en sturen op kosten en zorggebruik als hoofdgroep en op gedrag inwoners en maatschappij.
+
+195
+00:13:52,415 --> 00:13:55,935
+Speaker 2: Dus dat zijn eigenlijk twee...
+
+196
+00:13:56,879 --> 00:14:01,119
+Speaker 2: Dingen waar je op zou willen sturen, maar waar je op heel veel verschillende...
+
+197
+00:14:01,119 --> 00:14:04,019
+Speaker 2: Je kan veel makkelijker sturen op kosten en zorggebruik.
+
+198
+00:14:04,219 --> 00:14:10,679
+Speaker 2: Of je kan dat althans veel beter inzichtelijk maken dan dat je kan sturen op gedrag inwoners en maatschappij.
+
+199
+00:14:11,939 --> 00:14:13,959
+Speaker 1: Dat laatste is het lange termijn, natuurlijk.
+
+200
+00:14:14,359 --> 00:14:15,259
+Speaker 2: Ja, precies.
+
+201
+00:14:16,538 --> 00:14:20,998
+Speaker 2: Kost- en zorggebruik is veel makkelijker met KPIs meebaar te maken.
+
+202
+00:14:21,938 --> 00:14:26,998
+Speaker 2: Echt impact op de maatschappij, dan zit je al snel hypothetisch te sturen of met voorbeelden.
+
+203
+00:14:27,278 --> 00:14:30,198
+Speaker 2: Daar kan je eigenlijk heel moeilijk harde KPIs in koppelen.
+
+204
+00:14:30,318 --> 00:14:31,998
+Speaker 2: Maar dat wil niet zeggen dat niet kan.
+
+205
+00:14:33,458 --> 00:14:38,018
+Speaker 2: Hypothetisch sturen hebben we nu ook een beetje van gezegd, daar zit ook waarde in.
+
+206
+00:14:38,718 --> 00:14:41,138
+Speaker 2: Daar kunnen we ook daadvergeten mee werken.
+
+207
+00:14:41,311 --> 00:14:42,111
+Speaker 2: Ja, goed.
+
+208
+00:14:42,691 --> 00:14:44,611
+Speaker 2: Dus dat hele beetje zoals een soort van introductie.
+
+209
+00:14:45,611 --> 00:14:57,971
+Speaker 2: Binnen, als je inzicht wil in kosten en zorgebruik, zijn er natuurlijk ook nog een aantal dingen, of een aantal verschillende richtingen waar opdrachtgevers op willen.
+
+210
+00:14:58,671 --> 00:15:01,991
+Speaker 2: Sommigen willen inzicht in ontwikkelingen en trends.
+
+211
+00:15:02,827 --> 00:15:06,687
+Speaker 2: En die ontwikkelingen en trends, die wil je enerzijds vooraf kunnen voorspellen.
+
+212
+00:15:07,227 --> 00:15:15,687
+Speaker 2: En anderzijds zien we dat opdrachtgevers achteraf willen verklaren waarom, als onze wethouder inderdaad, waarom dingen naar zo zijn gelopen of zo waren.
+
+213
+00:15:16,427 --> 00:15:20,767
+Speaker 2: Dat vooraf voorspellen is voor controllers en fornuisers natuurlijk hartstikke interessant.
+
+214
+00:15:21,047 --> 00:15:22,467
+Speaker 2: En ook voor beleidsmedewerkers wel.
+
+215
+00:15:25,861 --> 00:15:39,541
+Speaker 2: En even kijken, naast ontwikkelingen en trends die je wil voorspellen en verklaren, zien we ook dat vooral gemeente effecten van beleid willen voorspellen en verklaren.
+
+216
+00:15:40,021 --> 00:15:47,221
+Speaker 2: Dus die trend, die ontwikkeling die dan eigenlijk beleidsarm is, die gewoon doorgaat zoals die gaat en waar je inzicht in wil.
+
+217
+00:15:47,967 --> 00:15:50,327
+Speaker 2: Die is er, maar daar wil je ook iets aan doen.
+
+218
+00:15:50,647 --> 00:15:53,547
+Speaker 2: Nou ja, bepaalde maatregelen of interventies.
+
+219
+00:15:54,527 --> 00:15:58,627
+Speaker 2: Dus wat we zien is dat ze heel erg op zoek zijn naar wat zijn nou de effecten.
+
+220
+00:15:58,667 --> 00:16:00,947
+Speaker 2: Als we hier aan deze knop draaien, wat gebeurt er dan?
+
+221
+00:16:01,547 --> 00:16:03,007
+Speaker 2: Welke effecten gaan we dan zien?
+
+222
+00:16:04,427 --> 00:16:09,907
+Speaker 2: Wat wij daar nu voor doen, als dienst ook, wat we een beetje proberen neer te zetten is scenarioanalysis.
+
+223
+00:16:10,267 --> 00:16:15,607
+Speaker 2: En we hebben dat nu gekoppeld heel erg aan de prognose die Tom heeft gemaakt.
+
+224
+00:16:16,587 --> 00:16:17,467
+Speaker 1: Het prognosemodel.
+
+225
+00:16:18,173 --> 00:16:19,173
+Speaker 2: Een prognosemodel, ja.
+
+226
+00:16:19,273 --> 00:16:22,413
+Speaker 2: Dus wat gebeurt er als je in een prognosemodel aan bepaalde knoppen draait?
+
+227
+00:16:23,093 --> 00:16:24,133
+Speaker 2: Dan krijg je dit scenario.
+
+228
+00:16:24,353 --> 00:16:25,573
+Speaker 2: Dat is hoe we dat een beetje doen.
+
+229
+00:16:27,173 --> 00:16:29,173
+Speaker 1: Even kijken.
+
+230
+00:16:30,173 --> 00:16:33,953
+Speaker 2: Ik kan eventjes wat doorsturen hoor.
+
+231
+00:16:34,053 --> 00:16:35,933
+Speaker 2: Dit heb ik gewoon ook in het schema gevonden.
+
+232
+00:16:36,013 --> 00:16:42,413
+Speaker 1: Zien ze allemaal dezelfde Power BI view?
+
+233
+00:16:45,511 --> 00:16:47,131
+Speaker 2: En een gemeente, of hoe bedoel je?
+
+234
+00:16:47,251 --> 00:16:51,431
+Speaker 1: Dus die gebruikers die je net benoemde, kijken zij allemaal naar hetzelfde scherm?
+
+235
+00:16:51,551 --> 00:16:53,391
+Speaker 1: Want hoe halen ze deze data op?
+
+236
+00:16:53,511 --> 00:16:56,891
+Speaker 1: Of zijn jullie daarvoor om die data vanuit het dashboard te vertalen?
+
+237
+00:16:56,931 --> 00:16:57,771
+Speaker 2: Wij zetten de interface in.
+
+238
+00:16:58,051 --> 00:16:59,191
+Speaker 1: Oh, wauw, jullie zijn de interface.
+
+239
+00:16:59,451 --> 00:16:59,931
+Speaker 1: Oké.
+
+240
+00:16:59,971 --> 00:17:01,491
+Speaker 2: Nou ja, de interface...
+
+241
+00:17:01,491 --> 00:17:04,431
+Speaker 2: Dat prognose model is natuurlijk gewoon een leuk Power BI model.
+
+242
+00:17:05,431 --> 00:17:09,251
+Speaker 2: En daar kunnen ze op zichzelf ook informatie uithalen.
+
+243
+00:17:10,411 --> 00:17:12,731
+Speaker 2: Soms is daar wat meer voor nodig, of moeten wij als...
+
+244
+00:17:12,967 --> 00:17:17,347
+Speaker 2: Leiders van een duidingssessie optreden of...
+
+245
+00:17:17,347 --> 00:17:19,487
+Speaker 2: Nou ja, dan gaan wij kijken naar wat valt ons op.
+
+246
+00:17:20,487 --> 00:17:22,227
+Speaker 2: Dus dan nemen ze dat echt in mee.
+
+247
+00:17:22,727 --> 00:17:25,146
+Speaker 2: Sommige opdrachtgevers zijn echt al wat meer...
+
+248
+00:17:25,146 --> 00:17:26,247
+Speaker 2: Nou ja, dat is iedereen vooral.
+
+249
+00:17:26,327 --> 00:17:27,287
+Speaker 2: Die kunnen dat gewoon zelf.
+
+250
+00:17:28,507 --> 00:17:34,347
+Speaker 2: Als je het hebt over echt die achteraf verklaringen...
+
+251
+00:17:34,347 --> 00:17:38,627
+Speaker 2: Ja, dan heb je meer nodig dan alleen dat prognosemodel.
+
+252
+00:17:38,867 --> 00:17:39,987
+Speaker 2: Meer dan alleen...
+
+253
+00:17:40,186 --> 00:17:46,506
+Speaker 2: Dan heb je eigenlijk ook nodig de koppeling naar een soort hark.
+
+254
+00:17:47,026 --> 00:17:48,646
+Speaker 2: Wat zit er dan in die prognose?
+
+255
+00:17:48,966 --> 00:17:49,666
+Speaker 1: Dat harkmodel?
+
+256
+00:17:50,386 --> 00:17:52,266
+Speaker 2: Ja, die is ook bekend.
+
+257
+00:17:53,266 --> 00:17:53,746
+Speaker 2: Ja, mooi.
+
+258
+00:17:54,526 --> 00:17:58,006
+Speaker 2: Dat kun je dus gebruiken om te verklaren achteraf waarom dingen zo waren.
+
+259
+00:17:58,126 --> 00:18:00,526
+Speaker 2: Zat het nou in het aantal cliënten dat is gestegen?
+
+260
+00:18:00,766 --> 00:18:01,786
+Speaker 2: Of de zorgstapeling?
+
+261
+00:18:01,926 --> 00:18:02,766
+Speaker 2: Of de loopduur?
+
+262
+00:18:03,457 --> 00:18:03,997
+Speaker 2: Die dingen.
+
+263
+00:18:05,577 --> 00:18:08,397
+Speaker 2: En daar kun je natuurlijk ook wel een laagje dieper weer in gaan.
+
+264
+00:18:08,577 --> 00:18:20,017
+Speaker 2: Dat is dan misschien iets minder dashboard gebaseerd, maar meer interviews met de organisatie van oké, waarom komt het nou dat er dus ook meer cliënten zijn?
+
+265
+00:18:20,617 --> 00:18:34,144
+Speaker 2: Hoef je niet alleen over interviews te gaan, kan natuurlijk ook gaan over wat jij al heel mooi zei, die bronkoppeling met CBS data als openbare data of bijvoorbeeld Als je als voorbeeld jeugdzorgkostenkrijging hebt.
+
+266
+00:18:34,764 --> 00:18:36,304
+Speaker 2: Nou, waar ligt dat dan aan?
+
+267
+00:18:36,444 --> 00:18:38,204
+Speaker 2: Oh, er zijn meer cliënten jeugdzorg.
+
+268
+00:18:38,464 --> 00:18:39,124
+Speaker 2: Hoe kan dat?
+
+269
+00:18:39,904 --> 00:18:43,124
+Speaker 2: We hebben in deze wijk bijvoorbeeld meer echtscheidingen.
+
+270
+00:18:43,564 --> 00:18:45,644
+Speaker 2: Of meer eenzaamheid.
+
+271
+00:18:46,104 --> 00:18:47,244
+Speaker 2: Of nou ja, dat soort zaken.
+
+272
+00:18:48,404 --> 00:18:59,547
+Speaker 2: En zo kan je denk ik ook dat soort bronnen, als je die koppeling met CBS-data makkelijk kan maken, toevoegen aan het model.
+
+273
+00:18:59,967 --> 00:19:00,747
+Speaker 1: Ja, ja.
+
+274
+00:19:02,527 --> 00:19:05,707
+Speaker 1: Shit, ik had heel veel vragen.
+
+275
+00:19:07,487 --> 00:19:15,887
+Speaker 2: Ja, het is even veel...
+
+276
+00:19:15,887 --> 00:19:19,447
+Speaker 2: Ik zit zelf een keertje door mijn schema's heen te bladeren hoor.
+
+277
+00:19:19,587 --> 00:19:20,907
+Speaker 2: Ik moet hem eigenlijk gewoon even opsturen.
+
+278
+00:19:22,972 --> 00:19:32,492
+Speaker 1: Zijn er modellen of views waarvan je zegt, ja, dit zou echt zo handig zijn als we dit zouden hebben?
+
+279
+00:19:32,872 --> 00:19:40,012
+Speaker 1: Ik ben het eigenlijk iedere keer soort van mentaal aan het doen en dan aan het uitleggen, maar als we dit gewoon zouden kunnen zien, dat zou eigenlijk wel helpen.
+
+280
+00:19:41,172 --> 00:19:46,232
+Speaker 1: Want ik vind het eigenlijk nog wel best wel meevallen qua datavisualisaties die jullie hebben.
+
+281
+00:19:46,912 --> 00:19:52,052
+Speaker 1: Doen jullie een hoop op eigen analyses bijvoorbeeld?
+
+282
+00:19:53,887 --> 00:19:55,667
+Speaker 1: Ja, ook nog wel.
+
+283
+00:19:56,167 --> 00:20:04,707
+Speaker 2: Om iets in Power BI te bouwen, soms kost dat ook gewoon best wel wat tijd.
+
+284
+00:20:05,187 --> 00:20:07,967
+Speaker 2: En het is helemaal niet aan de bedoeling om iets structureel te monitoren.
+
+285
+00:20:08,087 --> 00:20:13,627
+Speaker 2: Het is echt alleen bedoeld voor een verklarend onderzoek of voor eenmalige analyse.
+
+286
+00:20:14,287 --> 00:20:19,007
+Speaker 2: Soms is er ook geen behoefte aan om het helemaal in een dashboardje op te tuigen.
+
+287
+00:20:19,587 --> 00:20:20,287
+Speaker 1: Ja, precies.
+
+288
+00:20:20,827 --> 00:20:22,527
+Speaker 1: Maar is het een tijdskwestie?
+
+289
+00:20:22,927 --> 00:20:27,267
+Speaker 1: Want je antwoord wil je hebben, daar ben je wel naar op zoek.
+
+290
+00:20:27,907 --> 00:20:29,947
+Speaker 1: Alleen geen behoefte om het op te tuigen.
+
+291
+00:20:30,287 --> 00:20:32,807
+Speaker 1: Is het een tijdskwestie, een investeringskwestie?
+
+292
+00:20:33,807 --> 00:20:35,987
+Speaker 2: Ik denk beide eigenlijk, ja.
+
+293
+00:20:37,587 --> 00:20:39,927
+Speaker 2: Soms komen opdrachtgevers gewoon met een vraag van...
+
+294
+00:20:39,927 --> 00:20:45,027
+Speaker 2: ...Hé, wij willen een onderzoek naar waarom jeugdstofkosten zo zijn gestegen in de afgelopen vier jaar.
+
+295
+00:20:46,942 --> 00:20:47,982
+Speaker 2: Ja, dan ga je dat doen.
+
+296
+00:20:48,222 --> 00:20:49,602
+Speaker 2: Dan doen we echt een onderzoek.
+
+297
+00:20:49,762 --> 00:20:51,502
+Speaker 2: En dat is...
+
+298
+00:20:51,502 --> 00:20:53,162
+Speaker 2: Dan doen we al dit wat ik net noemde.
+
+299
+00:20:53,282 --> 00:21:00,802
+Speaker 2: Dus dan gebruiken we eigenlijk het prognosemodel om een voorspelling te maken, maar ook om achteraf te verklaren waarom die kosten zo zijn gestegen.
+
+300
+00:21:01,102 --> 00:21:05,922
+Speaker 2: En dan gebruiken we die hark om daar wat op in te duiken.
+
+301
+00:21:06,442 --> 00:21:12,866
+Speaker 1: En op het moment dat jullie zo'n dashboard tool hebben, Die is dan opgeleverd.
+
+302
+00:21:13,006 --> 00:21:13,986
+Speaker 1: Alle data staat daarin.
+
+303
+00:21:14,086 --> 00:21:15,946
+Speaker 1: En dan krijg je de vraag, hé, hoe kan het dat het zo gestegen is?
+
+304
+00:21:17,306 --> 00:21:21,566
+Speaker 1: Kun jij alle antwoorden dan halen uit...
+
+305
+00:21:21,566 --> 00:21:24,506
+Speaker 1: Nee, welke informatie mis je om het antwoord...
+
+306
+00:21:24,506 --> 00:21:28,386
+Speaker 1: Welke informatie mis je nog anders dan de dashboard om tot dat antwoord te komen?
+
+307
+00:21:28,486 --> 00:21:31,126
+Speaker 1: Of zeg je van, nou ja, eigenlijk ik weet hoe ik door kan klikken.
+
+308
+00:21:31,186 --> 00:21:32,386
+Speaker 1: Ik weet hoe ik die data moet lezen.
+
+309
+00:21:32,946 --> 00:21:35,566
+Speaker 1: Ik kan, ja, misschien een beetje queryen of iets dergelijks.
+
+310
+00:21:35,726 --> 00:21:37,586
+Speaker 1: Ik kan mijn antwoorden, kan ik hieruit halen.
+
+311
+00:21:39,423 --> 00:21:40,963
+Speaker 2: Nee, daar komen we niet.
+
+312
+00:21:41,463 --> 00:21:44,643
+Speaker 2: Bij dit soort vragen is een prognosemodel en het hartmodel...
+
+313
+00:21:44,643 --> 00:21:46,223
+Speaker 2: Dat staat redelijk goed.
+
+314
+00:21:46,763 --> 00:21:51,823
+Speaker 2: Als we dat optuigen en als we dat ergens bijvoorbeeld bij een van de klanten...
+
+315
+00:21:51,823 --> 00:21:52,803
+Speaker 2: Hebben we dat staan.
+
+316
+00:21:53,623 --> 00:21:55,323
+Speaker 2: Dat wordt dan ook gebruikt.
+
+317
+00:21:56,023 --> 00:22:01,083
+Speaker 2: Maar als het gaat om echt zorgonderzoek naar jeugdzorgkostenstijging...
+
+318
+00:22:01,083 --> 00:22:03,083
+Speaker 2: Dan leveren we één keer zo'n prognose op.
+
+319
+00:22:04,103 --> 00:22:07,283
+Speaker 2: Dat krijgen zij ook niet als dashboard, maar dat leveren we op.
+
+320
+00:22:08,262 --> 00:22:15,602
+Speaker 2: Aanvullend daarop hebben we dan het hark-model, waarmee we verklaringen inzichtelijk maken.
+
+321
+00:22:16,362 --> 00:22:21,042
+Speaker 2: En aanvullend daarop gebruiken we ook openbare data om onze diepte te analysen.
+
+322
+00:22:21,322 --> 00:22:24,762
+Speaker 2: Zit dat dan in echtscheidingen of eentje aan hijden?
+
+323
+00:22:29,693 --> 00:22:32,693
+Speaker 2: Dat dat dus wel efficiënter kan.
+
+324
+00:22:33,233 --> 00:22:42,133
+Speaker 2: En dat je dit ook, nou ja, met zo'n soort praten met je data, dat je dit uiteindelijk ook wel als product zou kunnen neerzetten en niet als eenmalig omnisroep.
+
+325
+00:22:45,413 --> 00:22:46,653
+Speaker 1: Ja, dus vandaar ik m'n vraag.
+
+326
+00:22:46,773 --> 00:22:51,393
+Speaker 1: Eigenlijk is m'n vraag, achter de vraag, heb je mensen nodig?
+
+327
+00:22:51,893 --> 00:22:55,993
+Speaker 1: Of zeg jij, eigenlijk, om tot het antwoord te komen, heb ik puur de data nodig?
+
+328
+00:22:56,073 --> 00:22:57,213
+Speaker 1: Even los van waar die staat.
+
+329
+00:22:59,461 --> 00:23:02,621
+Speaker 2: Ik heb puur de data nodig, maar ik ben dan dus wel de interface.
+
+330
+00:23:03,181 --> 00:23:03,801
+Speaker 1: Ja, precies.
+
+331
+00:23:03,941 --> 00:23:12,501
+Speaker 2: En ik denk dat het wel nog wat vergt om, ook als je dat praat met je datastukje zou hebben geïnstalleerd, ik denk dat ik dat dan kan.
+
+332
+00:23:13,101 --> 00:23:16,381
+Speaker 2: En dat voor een gemeente nog wel een slag...
+
+333
+00:23:16,381 --> 00:23:16,541
+Speaker 2: Ja.
+
+334
+00:23:16,661 --> 00:23:19,901
+Speaker 2: Ja, op de data gelet dat hij het vergt.
+
+335
+00:23:20,101 --> 00:23:23,901
+Speaker 1: Hoe komt het dat zij die domeinkennis...
+
+336
+00:23:23,901 --> 00:23:25,841
+Speaker 1: Welke domeinkennis heb jij dat zij dan niet hebben?
+
+337
+00:23:27,355 --> 00:23:35,835
+Speaker 2: Door mijn kennis gaat het eigenlijk om de vertaalslag, dus het snijvlak, inhoud en data vergeven werken.
+
+338
+00:23:36,055 --> 00:23:41,415
+Speaker 2: En ook de herkennis over hoe je data interpreteert.
+
+339
+00:23:42,104 --> 00:23:44,644
+Speaker 2: En dan bijvoorbeeld ook CBS Data.
+
+340
+00:23:45,184 --> 00:23:54,164
+Speaker 2: Daar zit soms echt nog, en dat klinkt heel sluf, maar daar zit echt nog een inhaalslag of een stukje onkunde bij sommige gemeenten.
+
+341
+00:23:54,264 --> 00:23:57,404
+Speaker 2: Niet bij alle en ook niet bij alle collega's natuurlijk, maar bij een aantal wel.
+
+342
+00:23:58,044 --> 00:24:02,064
+Speaker 2: Waar het dan nodig is om een adviseur daarop te hebben.
+
+343
+00:24:02,404 --> 00:24:04,964
+Speaker 2: Die ik dan in zo'n geval ben.
+
+344
+00:24:05,964 --> 00:24:13,292
+Speaker 2: Wat ook soms de behoefte is om juist een onafhankelijk iemand te hebben.
+
+345
+00:24:28,527 --> 00:24:36,587
+Speaker 2: In meeneemt en soms dan kunnen collega's intern dat niet zo goed of dan is het niet handig dat die dat doen, maar dat soort zaken.
+
+346
+00:24:36,927 --> 00:24:37,947
+Speaker 1: Ja, oké.
+
+347
+00:24:38,047 --> 00:24:51,087
+Speaker 1: Ik ben eigenlijk, met wat je net zei, dat jij weet hoe je de data moet lezen, daar ben ik eigenlijk heel erg in geïnteresseerd, of we dat kunnen tacklen.
+
+348
+00:24:52,945 --> 00:25:01,425
+Speaker 1: En misschien kunnen we naar een situatie toewerken waarbij we misschien iets van een case hebben of iets dergelijks waarbij we gewoon weten, oké, nou, we hebben de data.
+
+349
+00:25:02,325 --> 00:25:08,365
+Speaker 1: Wij moeten even nadenken hoe we die data op de juiste manier gaan neerzetten aan onze zijde en dan gewoon kijken wat we met AI kunnen doen.
+
+350
+00:25:10,563 --> 00:25:11,803
+Speaker 1: Ja, het is jammer.
+
+351
+00:25:12,123 --> 00:25:15,603
+Speaker 1: Misschien kunnen we dat de volgende keer doen.
+
+352
+00:25:15,683 --> 00:25:19,103
+Speaker 1: Dan kan ik je ook een beetje laten zien wat eigenlijk allemaal al mogelijk is.
+
+353
+00:25:19,583 --> 00:25:21,323
+Speaker 1: Het is best absurd, eigenlijk.
+
+354
+00:25:21,683 --> 00:25:25,043
+Speaker 2: Ja, dan kun je gewoon met je 4 teams, of in ieder geval online, gewoon een afspraak doen.
+
+355
+00:25:26,063 --> 00:25:26,803
+Speaker 1: Ja, leuk.
+
+356
+00:25:27,323 --> 00:25:28,883
+Speaker 1: Misschien kan dat morgen.
+
+357
+00:25:29,823 --> 00:25:31,403
+Speaker 2: Even kijken.
+
+358
+00:25:34,203 --> 00:25:37,403
+Speaker 2: Nou, ik zit redelijk vol.
+
+359
+00:25:38,663 --> 00:25:39,943
+Speaker 2: Even kijken.
+
+360
+00:25:41,410 --> 00:25:43,970
+Speaker 2: Ja, ik zou om twaalf nog kunnen.
+
+361
+00:25:44,350 --> 00:25:46,090
+Speaker 2: Dat is wel een beetje streng, maar...
+
+362
+00:25:46,090 --> 00:25:49,070
+Speaker 1: Even kijken, even kijken.
+
+363
+00:25:49,210 --> 00:25:51,330
+Speaker 1: Ga ik dan allerlei rare dingen roepen?
+
+364
+00:25:52,410 --> 00:25:52,950
+Speaker 1: Nee, dat kan.
+
+365
+00:25:53,050 --> 00:25:53,670
+Speaker 1: Oh, dat kan zeker.
+
+366
+00:25:54,550 --> 00:25:54,810
+Speaker 2: Ja.
+
+367
+00:25:55,490 --> 00:25:55,850
+Speaker 1: Leuk.
+
+368
+00:25:58,470 --> 00:25:58,770
+Speaker 2: Ja.
+
+369
+00:26:01,694 --> 00:26:02,334
+Speaker 1: Oké, leuk.
+
+370
+00:26:02,494 --> 00:26:05,834
+Speaker 1: Ik ben heel benieuwd wat je ervan vindt.
+
+371
+00:26:07,174 --> 00:26:15,274
+Speaker 1: Maar ik heb zelf het idee dat als we de data hebben, dat we best wel met scherpe analyse zouden kunnen komen.
+
+372
+00:26:15,354 --> 00:26:16,334
+Speaker 1: Maar ik weet het niet.
+
+373
+00:26:16,934 --> 00:26:17,554
+Speaker 1: Ik heb geen idee.
+
+374
+00:26:18,254 --> 00:26:19,794
+Speaker 1: Ik ben heel benieuwd wat jij ervan vindt.
+
+375
+00:26:19,994 --> 00:26:26,254
+Speaker 1: En misschien moeten we dat gewoon een beetje testen en waarschijnlijk werkt het dan niet helemaal zoals je dat graag zou willen.
+
+376
+00:26:26,654 --> 00:26:30,834
+Speaker 1: Maar dat is prima, want dan weet ik ook een beetje wat we nog missen en wat we zouden moeten doen.
+
+377
+00:26:31,563 --> 00:26:32,223
+Speaker 2: Nee, precies.
+
+378
+00:26:32,423 --> 00:26:39,983
+Speaker 2: Ja, ik denk dat ik wel goed vanuit het perspectief van de opdrachtgevers vragen kan stellen en dan kijken, werkt het of wat hebben we daarvoor nodig?
+
+379
+00:26:40,363 --> 00:26:40,483
+Speaker 1: Ja.
+
+380
+00:26:41,363 --> 00:26:43,023
+Speaker 1: Leuk.
+
+381
+00:26:43,303 --> 00:26:43,783
+Speaker 1: Leuk, leuk.
+
+382
+00:26:43,903 --> 00:26:44,423
+Speaker 1: Oké, top.
+
+383
+00:26:44,543 --> 00:26:45,743
+Speaker 1: Ik zie ernaar uit.
+
+384
+00:26:45,983 --> 00:26:46,603
+Speaker 1: Ik ben heel benieuwd.
+
+385
+00:26:48,083 --> 00:26:50,363
+Speaker 2: Zal ik even...
+
+386
+00:26:50,363 --> 00:26:52,783
+Speaker 2: Even kijken.
+
+387
+00:26:52,843 --> 00:26:53,663
+Speaker 2: Gebruik je Teams?
+
+388
+00:26:54,303 --> 00:26:56,083
+Speaker 1: Ja, dat gebruik ik gewoon vanuit de browser.
+
+389
+00:26:56,223 --> 00:26:58,183
+Speaker 1: Dus als je een linkje stuurt, dan kan ik er sowieso in loggen.
+
+390
+00:27:00,048 --> 00:27:02,308
+Speaker 2: Welk mailadres kan ik gebruiken?
+
+391
+00:27:02,708 --> 00:27:03,928
+Speaker 1: Oh, dat heb ik hier wel even.
+
+392
+00:27:05,748 --> 00:27:06,548
+Speaker 2: Oh, top, ja.
+
+393
+00:27:07,248 --> 00:27:09,048
+Speaker 1: Oh, wacht even, verkeerde.
+
+394
+00:27:09,268 --> 00:27:10,308
+Speaker 1: Deze moet je even...
+
+395
+00:27:10,308 --> 00:27:13,148
+Speaker 1: Of doe allebei maar, sorry.
+
+396
+00:27:14,068 --> 00:27:15,028
+Speaker 1: Zou je ze allebei willen doen?
+
+397
+00:27:15,888 --> 00:27:16,908
+Speaker 1: Dan weet ik zeker...
+
+398
+00:27:16,908 --> 00:27:18,868
+Speaker 1: Dan heb ik het in magenta en dan...
+
+399
+00:27:24,567 --> 00:27:25,047
+Speaker 1: Dankjewel.
+
+400
+00:27:25,307 --> 00:27:30,587
+Speaker 1: En dan kan ik dat ook gebruiken om weer de applicatie mee te verbeteren, zeg maar.
+
+401
+00:27:31,567 --> 00:27:31,687
+Speaker 2: Ja.
+
+402
+00:27:32,247 --> 00:27:32,967
+Speaker 1: Leuk.
+
+403
+00:27:33,207 --> 00:27:35,847
+Speaker 1: Ik ben heel benieuwd wat je ervan gaat vinden morgen.
+
+404
+00:27:36,727 --> 00:27:37,027
+Speaker 2: Ja.
+
+405
+00:27:37,367 --> 00:27:39,227
+Speaker 1: En waar we uit gaan komen.
+
+406
+00:27:39,287 --> 00:27:41,347
+Speaker 1: Maar volgens mij gaat het wel goed komen.
+
+407
+00:27:43,127 --> 00:27:45,007
+Speaker 2: Ik denk het wel.
+
+408
+00:27:45,107 --> 00:27:45,607
+Speaker 2: Ik benieuwd.
+
+409
+00:27:46,147 --> 00:27:46,267
+Speaker 2: Ja.
+
+410
+00:27:47,047 --> 00:27:51,827
+Speaker 1: Heb jij één functionaliteit waarvan je zegt, dit is echt het meest belangrijke voor de klant.
+
+411
+00:27:51,907 --> 00:27:54,287
+Speaker 1: Als we dit zouden hebben, dat zou echt ideaal zijn.
+
+412
+00:27:56,208 --> 00:28:02,588
+Speaker 2: Nou, ik denk...
+
+413
+00:28:02,588 --> 00:28:07,968
+Speaker 2: Ik denk dat we al heel goed op weg zijn met praten met je data.
+
+414
+00:28:09,288 --> 00:28:12,848
+Speaker 2: Ik denk dat stimuleert ook om...
+
+415
+00:28:12,848 --> 00:28:15,688
+Speaker 2: Ik denk dat gewoon leuk is ook.
+
+416
+00:28:15,928 --> 00:28:20,588
+Speaker 2: Het stimuleert mensen ook om op dat gegeven manier besluiten te maken, denk ik.
+
+417
+00:28:20,848 --> 00:28:21,048
+Speaker 1: Ja.
+
+418
+00:28:28,135 --> 00:28:28,655
+Speaker 2: Kijken hoor.
+
+419
+00:28:29,975 --> 00:28:35,595
+Speaker 2: Ja, wij zitten momenteel best wel met scenarioanalyse te spelen.
+
+420
+00:28:36,095 --> 00:28:38,555
+Speaker 2: Wat ik al zei net heel eventjes kort.
+
+421
+00:28:39,095 --> 00:28:40,915
+Speaker 2: Echt naar effecten van beleid.
+
+422
+00:28:41,015 --> 00:28:43,495
+Speaker 2: Dus als we hier aan deze knoppen draaien, wat komt er dan?
+
+423
+00:28:44,035 --> 00:28:46,335
+Speaker 2: Daar heeft Tom al wel iets heel moois voor ontwikkeld.
+
+424
+00:28:47,015 --> 00:28:53,755
+Speaker 2: Maar dat kan denk ik veel makkelijker uiteindelijk met AI.
+
+425
+00:28:54,865 --> 00:29:03,265
+Speaker 2: Dus als we dat op een leuke manier zouden hebben staan, dat het echt een soort van knoppen zijn, waar de opdrachtgever gewoon aan kan draaien.
+
+426
+00:29:03,625 --> 00:29:14,125
+Speaker 2: Dat ik ook denk dat echt wel heel veel nog haak in ogen heeft en dat wij daar nog wel een tijdje voor nodig zijn op die manier.
+
+427
+00:29:15,385 --> 00:29:23,765
+Speaker 1: Maar misschien is het, kijk, het is natuurlijk wel hoe je het ook verkoopt, want ieder jaar doe ik de prognose, het is eigenlijk gewoon ieder jaar gokken.
+
+428
+00:29:24,065 --> 00:29:25,605
+Speaker 1: En hou ik mezelf er aan vast?
+
+429
+00:29:25,705 --> 00:29:27,545
+Speaker 1: Nee, natuurlijk niet, maar je moet iets van een doel hebben.
+
+430
+00:29:27,705 --> 00:29:38,180
+Speaker 1: En wat ook held in het scenario beelden is gewoon het, misschien is het nog wel belangrijker, Duidelijk krijgen van welke scenario's zijn nu eigenlijk mogelijk?
+
+431
+00:29:38,420 --> 00:29:39,840
+Speaker 1: Waar kunnen we nu eigenlijk op sturen?
+
+432
+00:29:40,000 --> 00:29:42,440
+Speaker 1: Even los van of het nou gaat werken, ja of nee?
+
+433
+00:29:42,800 --> 00:29:43,880
+Speaker 1: Wat hebben we nou allemaal?
+
+434
+00:29:44,140 --> 00:29:48,300
+Speaker 1: Afgezien van, oké, we moeten er 2% bij doen of zo, waar kunnen we op bezuinigen?
+
+435
+00:29:48,400 --> 00:29:50,660
+Speaker 1: Wat voor mogelijkheden zouden er kunnen zijn?
+
+436
+00:29:50,760 --> 00:29:55,640
+Speaker 1: En misschien die creativiteit terugkrijgen, alleen al, zou misschien al best wel wat kunnen doen.
+
+437
+00:29:57,252 --> 00:30:06,212
+Speaker 2: Het ding is, wat ik in ieder geval heel praktisch zie wel, is dat je hebt enorm veel maatregelen waar je aan kan denken en die hebben ze nu ook wel redelijk inzichtelijk.
+
+438
+00:30:06,803 --> 00:30:11,263
+Speaker 2: In ieder geval rondom jeugd, besparingsmaatregelen, bezuinigingsmaatregelen.
+
+439
+00:30:11,483 --> 00:30:13,663
+Speaker 2: Dus ze hebben een hele rits aan maatregelen.
+
+440
+00:30:14,383 --> 00:30:19,723
+Speaker 2: En nu is het eigenlijk de vraag, welke past bij onze situatie en wat doet dat bij ons specifiek.
+
+441
+00:30:21,203 --> 00:30:28,963
+Speaker 1: Wordt daarbij dan ook rekening gehouden, bijvoorbeeld als je het hebt, oké, we hebben scenario's, maar volgend jaar komen er ook nieuwe wetten.
+
+442
+00:30:29,770 --> 00:30:35,770
+Speaker 1: Dat die wetten ook meegenomen worden, bijvoorbeeld, in de scenario's.
+
+443
+00:30:35,970 --> 00:30:36,810
+Speaker 2: Of gebeurt dat dan?
+
+444
+00:30:36,830 --> 00:30:38,030
+Speaker 2: Nu nog niet.
+
+445
+00:30:38,410 --> 00:30:51,210
+Speaker 2: Wat we nu wel zouden kunnen doen, is als wij weten, Tom en ik, dat er een wet aankomt, waarvan weten dat die heeft invloed op dit en dit, dat we dat gewoon als een apart scenario maken.
+
+446
+00:30:53,108 --> 00:30:57,348
+Speaker 2: Maar eigenlijk zou het mooi zijn om dat gewoon al in de prognose te verwerken.
+
+447
+00:30:57,828 --> 00:31:03,248
+Speaker 2: Dus dat die knop en dat scenario in plaats van andere scenario's kan bestaan.
+
+448
+00:31:03,348 --> 00:31:04,828
+Speaker 2: Maar ja, dat zou hartstikke mooi zijn.
+
+449
+00:31:05,188 --> 00:31:05,908
+Speaker 1: Ja, precies.
+
+450
+00:31:06,808 --> 00:31:08,988
+Speaker 1: Oké, hier moet ik inderdaad even goed over nadenken.
+
+451
+00:31:11,488 --> 00:31:14,468
+Speaker 1: Maar dit zijn wel...
+
+452
+00:31:14,468 --> 00:31:19,508
+Speaker 1: Als de basis staat, denk ik dat dit soort dingen best wel goed mogelijk zijn.
+
+453
+00:31:20,128 --> 00:31:20,448
+Speaker 2: Ja.
+
+454
+00:31:21,668 --> 00:31:21,908
+Speaker 2: Ja.
+
+455
+00:31:23,264 --> 00:31:30,244
+Speaker 2: En kijk, een database met allerlei maatregelen, dat is natuurlijk ook gewoon iets dat je in zo'n model kan proppen.
+
+456
+00:31:30,984 --> 00:31:31,304
+Speaker 1: Ja.
+
+457
+00:31:32,124 --> 00:31:32,244
+Speaker 2: Ja.
+
+458
+00:31:35,584 --> 00:31:42,084
+Speaker 1: En als jij met zo'n model bezig bent, in hoeverre vertrouw jij de data nou eigenlijk?
+
+459
+00:31:43,384 --> 00:31:47,284
+Speaker 2: Is heel erg afhankelijk van de opdrachtgever.
+
+460
+00:31:47,964 --> 00:31:57,247
+Speaker 2: Bij prognose, bij prognose om declaraties uit berichten verkeerd, dat is bekend.
+
+461
+00:31:57,987 --> 00:32:02,947
+Speaker 2: Wat daar mis aan kan zijn, is dat het gewoon niet goed gevuld is, of op een rare manier wordt gevuld.
+
+462
+00:32:03,647 --> 00:32:06,599
+Speaker 2: Of dat de...
+
+463
+00:32:06,599 --> 00:32:08,839
+Speaker 2: Declaraties pas laat binnenkomen.
+
+464
+00:32:09,439 --> 00:32:24,399
+Speaker 2: Dus dat zijn, nou ja, de problemen zijn me ook bekend, dus ik heb daar een redelijk groot vertrouwen in en ik weet ook goed dat als er iets niet in de data zit of als de kwaliteit laag is, ik weet dan ook vaak waar het aan ligt.
+
+465
+00:32:25,219 --> 00:32:29,059
+Speaker 2: Dus dat geeft gif voor mij en voor Tom ook.
+
+466
+00:32:31,743 --> 00:32:37,403
+Speaker 2: Dus ik wel, maar dit is bij de opdrachtgever ook vaak een beetje een black box.
+
+467
+00:32:37,803 --> 00:32:42,483
+Speaker 2: Die denkt, dan klopt er iets niet in de data, en dan is er meteen, oh, ik heb er geen vertrouwen in.
+
+468
+00:32:42,743 --> 00:32:43,523
+Speaker 1: Ja, precies.
+
+469
+00:32:44,163 --> 00:32:45,203
+Speaker 1: Hoe gaat een...
+
+470
+00:32:45,203 --> 00:32:48,123
+Speaker 2: Ik zou eigenlijk ook niet nodig kunnen zeggen dat hier en hier aan ligt, ja.
+
+471
+00:32:48,363 --> 00:32:52,643
+Speaker 1: En hoe gaat daar een minder ervaren collega van je mee om dan?
+
+472
+00:32:53,523 --> 00:32:57,483
+Speaker 1: Ik kan me voorstellen dat het best moeilijk is, want ja, je moet onder spot...
+
+473
+00:32:57,483 --> 00:32:58,643
+Speaker 1: Hij weet het ook niet.
+
+474
+00:32:59,536 --> 00:33:00,256
+Speaker 2: Nee, klopt.
+
+475
+00:33:00,496 --> 00:33:02,136
+Speaker 2: Nee, en dat is inderdaad soms best lastig.
+
+476
+00:33:02,816 --> 00:33:02,916
+Speaker 2: Ja.
+
+477
+00:33:04,496 --> 00:33:06,656
+Speaker 1: En er is eigenlijk geen audit-trail.
+
+478
+00:33:07,136 --> 00:33:07,996
+Speaker 1: Of zijn jullie...
+
+479
+00:33:07,996 --> 00:33:12,076
+Speaker 1: Ben jij altijd betrokken geweest bij het proces waarin de data wordt opgemaakt?
+
+480
+00:33:12,136 --> 00:33:13,396
+Speaker 1: Dus kun jij bijvoorbeeld...
+
+481
+00:33:13,396 --> 00:33:15,616
+Speaker 1: Nee, wacht even, ik weet waar deze data vandaan komt.
+
+482
+00:33:15,896 --> 00:33:19,656
+Speaker 1: Dat komt daar vandaan, dus dat betekent dat XYZ, zeg maar.
+
+483
+00:33:19,776 --> 00:33:21,376
+Speaker 1: Of ben je daar totaal niet bij betrokken?
+
+484
+00:33:21,516 --> 00:33:26,936
+Speaker 1: Het begint bij jou met een dashboard, qua data dan, los van de normaalkundes.
+
+485
+00:33:27,481 --> 00:33:29,241
+Speaker 2: Ja, ik ben er inderdaad een stuk minder bij betrokken.
+
+486
+00:33:29,481 --> 00:33:32,901
+Speaker 2: Ik ben iets minder van de technische kant en het opschonen.
+
+487
+00:33:33,341 --> 00:33:38,517
+Speaker 2: Voor een deel wel hoor, maar...
+
+488
+00:33:38,517 --> 00:33:40,797
+Speaker 2: Daar schakel ik dan vaak andere collega's voor in.
+
+489
+00:33:41,057 --> 00:33:41,217
+Speaker 1: Ja.
+
+490
+00:33:41,517 --> 00:33:45,137
+Speaker 1: Wat ik probeer te doen, ik benieuwd in hoeverre jij denkt dat het handig is.
+
+491
+00:33:45,237 --> 00:33:50,237
+Speaker 1: Als ik Harm Nico spreek, dan is dit voor hem een must.
+
+492
+00:33:50,737 --> 00:33:57,497
+Speaker 1: Maar op het moment dat jij in een dashboard zit en je klikt op een getal, dan moet je eigenlijk kunnen zien, exact kunnen zien waar dit vandaan komt.
+
+493
+00:33:58,237 --> 00:33:58,477
+Speaker 2: Ja.
+
+494
+00:33:58,957 --> 00:33:59,857
+Speaker 2: Ja, groot fan van.
+
+495
+00:34:00,237 --> 00:34:00,497
+Speaker 1: Ja?
+
+496
+00:34:00,717 --> 00:34:00,857
+Speaker 1: Ja.
+
+497
+00:34:01,237 --> 00:34:01,497
+Speaker 2: Ja.
+
+498
+00:34:01,937 --> 00:34:02,117
+Speaker 2: Ja.
+
+499
+00:34:02,986 --> 00:34:04,366
+Speaker 1: Oh ja, dan...
+
+500
+00:34:04,366 --> 00:34:05,066
+Speaker 1: Ja, dit is...
+
+501
+00:34:05,066 --> 00:34:05,446
+Speaker 1: Oké.
+
+502
+00:34:05,726 --> 00:34:05,886
+Speaker 2: Ja, dit...
+
+503
+00:34:05,886 --> 00:34:11,166
+Speaker 2: Ja, Harm Niko is natuurlijk wel echt een hardliner in.
+
+504
+00:34:11,346 --> 00:34:11,565
+Speaker 1: Ja.
+
+505
+00:34:12,025 --> 00:34:15,366
+Speaker 1: Want hoe ga je anders die miljoenen of dat bedrag interpreteren?
+
+506
+00:34:15,886 --> 00:34:17,386
+Speaker 1: Of hoe ga je die norm...
+
+507
+00:34:17,386 --> 00:34:18,146
+Speaker 1: Dat vraagt me ook af.
+
+508
+00:34:18,206 --> 00:34:19,926
+Speaker 1: Wie bepaalt eigenlijk de norm?
+
+509
+00:34:21,565 --> 00:34:25,786
+Speaker 2: De norm van het kosten?
+
+510
+00:34:26,678 --> 00:34:34,237
+Speaker 1: Iedere afwijking, een afwijking wil je onderzoeken toch, denk ik.
+
+511
+00:34:34,938 --> 00:34:37,978
+Speaker 1: Maar als het 0,1% af...
+
+512
+00:34:37,978 --> 00:34:44,018
+Speaker 2: Dat is gewoon geen vraag inderdaad, want welke onzekerheidsmarge is normaal en welke is acceptabel en welke niet.
+
+513
+00:34:49,342 --> 00:34:51,282
+Speaker 1: Is dit ook een menselijk iets, denk ik?
+
+514
+00:34:52,161 --> 00:34:53,141
+Speaker 1: Moet je dat ook?
+
+515
+00:34:53,161 --> 00:34:54,222
+Speaker 2: Het is bijna een gevoelskwestie.
+
+516
+00:34:54,681 --> 00:34:55,681
+Speaker 1: Ja, precies.
+
+517
+00:34:56,601 --> 00:34:57,922
+Speaker 2: Het is niet helemaal...
+
+518
+00:34:57,922 --> 00:34:59,602
+Speaker 2: Ik denk dat...
+
+519
+00:34:59,602 --> 00:35:04,662
+Speaker 2: Kijk, de juridische controllers hebben de begroting natuurlijk wel scherp.
+
+520
+00:35:05,660 --> 00:35:08,320
+Speaker 1: Ik kan me gewoon niet voorstellen dat een controle hierover...
+
+521
+00:35:08,320 --> 00:35:10,100
+Speaker 1: Ik snap dat zij...
+
+522
+00:35:10,100 --> 00:35:11,800
+Speaker 1: Tenminste, ik ken wat controle is.
+
+523
+00:35:11,920 --> 00:35:16,020
+Speaker 1: De controles die ik in ieder geval ken, die zitten er vrij strak in.
+
+524
+00:35:16,100 --> 00:35:17,660
+Speaker 1: Die denken dat zij de waarheid in pacht hebben.
+
+525
+00:35:17,880 --> 00:35:22,300
+Speaker 1: Maar ik denk dat de norm ook gewoon bepaald wordt door de mensen die ermee werken.
+
+526
+00:35:22,780 --> 00:35:26,400
+Speaker 1: En los van de bedragen die erbij komen kijken...
+
+527
+00:35:26,400 --> 00:35:28,880
+Speaker 1: Ja.
+
+528
+00:35:30,500 --> 00:35:32,140
+Speaker 2: Ja, klopt.
+
+529
+00:35:32,500 --> 00:35:38,820
+Speaker 2: Ik denk dat hij wel de doedelos is, maar dat is inderdaad wel wat gek.
+
+530
+00:35:39,940 --> 00:35:41,580
+Speaker 2: Dat dat altijd samenhangt.
+
+531
+00:35:41,700 --> 00:35:45,960
+Speaker 2: Maar ik denk het wel, want het wordt pas een probleem als de begroting zodanig wordt overschreden.
+
+532
+00:35:46,120 --> 00:35:46,500
+Speaker 1: Ja.
+
+533
+00:35:49,197 --> 00:35:53,237
+Speaker 2: Dan wordt het geproblematiseerd, maar niet omdat hij een bepaald percentage afleidt.
+
+534
+00:35:53,317 --> 00:35:55,257
+Speaker 2: Het hangt wel echt met cijfertjes aan.
+
+535
+00:35:55,857 --> 00:35:57,917
+Speaker 1: Dit soort dingen zijn dus heel interessant.
+
+536
+00:35:58,717 --> 00:36:01,237
+Speaker 1: Hier ben ik heel erg naar op zoek.
+
+537
+00:36:01,757 --> 00:36:02,117
+Speaker 1: Waarom?
+
+538
+00:36:04,157 --> 00:36:09,317
+Speaker 1: Omdat ik denk dat dit probleem vrij breed is.
+
+539
+00:36:09,457 --> 00:36:13,877
+Speaker 1: Het bepalen van de norm is iets wat best moeilijk is en misschien wel op gevoel gaat.
+
+540
+00:36:14,290 --> 00:36:19,630
+Speaker 1: Vooral bij gebrek aan data en gebrek aan perspectief.
+
+541
+00:36:21,010 --> 00:36:36,350
+Speaker 1: Maar wanneer je perspectief hebt, en dan ga ik verder dan wat cijfertjes bijvoorbeeld, maar wanneer je uitleg hebt wanneer een bedrag is geweest, dan kun je misschien veel beter bepalen wat een echte norm zou moeten zijn of kunnen zijn.
+
+542
+00:36:43,518 --> 00:36:46,818
+Speaker 2: Een lijst met allerlei beheersmaatregelen die je kan inzetten.
+
+543
+00:36:47,898 --> 00:36:51,658
+Speaker 2: Op basis van die hele lijst wordt er vaak al een taakstelling ingebouwd.
+
+544
+00:36:52,158 --> 00:36:54,498
+Speaker 2: En moet er, laten we zeggen, een miljoen worden bespaard.
+
+545
+00:36:54,798 --> 00:36:59,158
+Speaker 2: Met geen enkel idee waar dat vandaan moet komen.
+
+546
+00:36:59,258 --> 00:37:00,378
+Speaker 2: Of dat überhaupt haalbaar is.
+
+547
+00:37:00,538 --> 00:37:03,218
+Speaker 2: Of die maatregelen daadwerkelijk tot die besparing kunnen leiden.
+
+548
+00:37:03,558 --> 00:37:06,678
+Speaker 2: Dat is gewoon vaak al ingebouwd.
+
+549
+00:37:07,379 --> 00:37:14,719
+Speaker 2: En dan gaan we de scenario's opstellen waarin we gaan kijken wat een maatregel in het prognosimeel kan doen.
+
+550
+00:37:15,119 --> 00:37:21,279
+Speaker 2: Dat doe je dus op basis van allerlei aannames, ook van eerder onderzoek bijvoorbeeld, of allerlei hypothese.
+
+551
+00:37:22,381 --> 00:37:27,641
+Speaker 2: En door het gesprek te voeren met, oké, wat verwacht je nou van zo'n maatregel?
+
+552
+00:37:27,801 --> 00:37:31,101
+Speaker 2: Welk percentage minder instroom van kinderen in jeugdzorg verwacht je?
+
+553
+00:37:31,161 --> 00:37:32,081
+Speaker 2: Gewoon echt op dat niveau.
+
+554
+00:37:32,661 --> 00:37:38,401
+Speaker 2: En als je dat dan gaat doorbreken en dat aan ze laat zien, en dan blijkt dat maar, weet ik veel, twee ton te zijn.
+
+555
+00:37:38,681 --> 00:37:43,981
+Speaker 2: Ja, dan voel je, het geeft heel erg de basis voor het goede gesprek, de data.
+
+556
+00:37:46,057 --> 00:37:49,837
+Speaker 1: En dit probeer ik.
+
+557
+00:37:50,617 --> 00:37:53,497
+Speaker 1: Ik kijk heel anders naar data.
+
+558
+00:37:53,617 --> 00:37:56,097
+Speaker 1: Ik kijk het vanuit een technisch perspectief.
+
+559
+00:37:56,217 --> 00:37:58,837
+Speaker 1: Al heb ik ook natuurlijk ook wel gezien wat het doet.
+
+560
+00:38:00,657 --> 00:38:04,357
+Speaker 1: Zeg je dat bedrijfstechnisch.
+
+561
+00:38:05,317 --> 00:38:06,777
+Speaker 1: Dus ik vind dat heel interessant.
+
+562
+00:38:06,877 --> 00:38:10,831
+Speaker 1: Dit zijn voor mij hele Belangrijke inzichten.
+
+563
+00:38:11,371 --> 00:38:14,331
+Speaker 1: Omdat ik wel de uitdaging aan wil gaan om gewoon eens te kijken...
+
+564
+00:38:14,331 --> 00:38:18,011
+Speaker 1: ...Wat kunnen wij nou doen om die data op zo'n manier inzichtelijk te maken...
+
+565
+00:38:18,011 --> 00:38:19,631
+Speaker 1: ...Zodat jullie een betere norm kunnen bepalen.
+
+566
+00:38:20,031 --> 00:38:23,211
+Speaker 1: Een betere beslissing kunnen nemen, een klant beter kunnen adviseren...
+
+567
+00:38:23,211 --> 00:38:25,791
+Speaker 1: ...Of een klant zichzelf misschien wel beter kan adviseren.
+
+568
+00:38:26,131 --> 00:38:33,891
+Speaker 1: En het moeilijke en het echte leuke werk nog steeds aan jullie blijft natuurlijk.
+
+569
+00:38:34,538 --> 00:38:37,078
+Speaker 1: Alleen het saaie gebeuren wat minder.
+
+570
+00:38:37,418 --> 00:38:42,478
+Speaker 1: Dat moet gewoon kunnen, denk ik.
+
+571
+00:38:43,178 --> 00:38:44,578
+Speaker 2: Ja, dat denk ik ook.
+
+572
+00:38:44,678 --> 00:38:47,138
+Speaker 1: Omdat je de creativiteit kunt gebruiken.
+
+573
+00:38:47,638 --> 00:38:52,218
+Speaker 1: Ja, dit helpt een hoop.
+
+574
+00:38:53,078 --> 00:38:54,518
+Speaker 2: Ja, nou fijn.
+
+575
+00:38:54,858 --> 00:38:57,678
+Speaker 2: Ik moet er wel van houden hoor.
+
+576
+00:38:58,158 --> 00:39:02,098
+Speaker 2: Ik stuur je even een teamslinkje van morgen.
+
+577
+00:39:02,956 --> 00:39:08,856
+Speaker 2: En ik zal ook nog even die schematische weergave van wat wij een beetje zien bij opdrachtgevers aan behoefte.
+
+578
+00:39:08,936 --> 00:39:09,536
+Speaker 1: Ja, top.
+
+579
+00:39:09,696 --> 00:39:10,016
+Speaker 1: Dankjewel.
+
+580
+00:39:10,396 --> 00:39:11,256
+Speaker 1: Dankjewel, dankjewel.
+
+581
+00:39:11,636 --> 00:39:12,936
+Speaker 1: Fijn, dankjewel voor je tijd nu.
+
+582
+00:39:13,096 --> 00:39:14,236
+Speaker 1: En dan spreek ik jou morgen.
+
+583
+00:39:15,036 --> 00:39:15,516
+Speaker 2: Helemaal goed.
+
+584
+00:39:15,756 --> 00:39:16,516
+Speaker 1: Tot morgen.
+
+585
+00:39:16,656 --> 00:39:17,056
+Speaker 1: Oké, dankjewel.
+
+586
+00:39:17,136 --> 00:39:18,396
+Speaker 1: Yo, yo, hoi.
+
+587
+00:39:19,116 --> 00:39:21,356
+Speaker 1: Wat?
+
+588
+00:39:22,016 --> 00:39:22,356
+Speaker 2: Wat?
+
+589
+00:39:23,716 --> 00:39:24,996
+Speaker 2: Ik ben bang dat hij aan het praten is.
+
+590
+00:39:25,096 --> 00:39:25,236
+Speaker 1: Ja.
+
+591
+00:39:25,996 --> 00:39:27,456
+Speaker 1: Oh, die fucking Lisa.
+
+592
+00:39:28,516 --> 00:39:30,236
+Speaker 2: Ik ben bang dat hij aan het praten is.
+
+593
+00:39:30,716 --> 00:39:31,436
+Speaker 1: Nee, hij niet.
+
+594
+00:39:31,936 --> 00:39:32,636
+Speaker 2: Nee, ik...
+
+595
+00:39:33,432 --> 00:39:33,632
+Speaker 1: Wat?
+
+596
+00:39:33,752 --> 00:39:35,332
+Speaker 2: Want ik probeer het niet op te laten zien.
+
+597
+00:39:35,792 --> 00:39:36,412
+Speaker 1: Nee, je kan het.
+
+598
+00:39:36,532 --> 00:39:38,952
+Speaker 2: Nee, ik denk dat het omdat het uit plastic is gemaakt.
+
+599
+00:39:39,212 --> 00:39:40,832
+Speaker 1: Nee, je moet dit gebruiken.
+
+600
+00:39:41,132 --> 00:39:42,332
+Speaker 1: Je moet dit er tussenin zetten.
+
+601
+00:39:43,152 --> 00:39:44,772
+Speaker 1: Dit is een rookie-feuille.
+
+602
+00:39:45,212 --> 00:39:45,912
+Speaker 1: Maar het is oké.
+
+603
+00:39:46,332 --> 00:39:49,412
+Speaker 1: Het is een rookie-feuille.
+
+604
+00:39:49,892 --> 00:39:50,792
+Speaker 1: Je kunt het weer kopen.
+
+605
+00:39:51,492 --> 00:39:52,072
+Speaker 1: Je kunt het ook vragen.
+
+606
+00:39:55,472 --> 00:39:57,932
+Speaker 1: Wat is er, baby?
+
+607
+00:40:02,575 --> 00:40:05,175
+Speaker 2: Oh, fuck.
+
